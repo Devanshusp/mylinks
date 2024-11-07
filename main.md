@@ -19,6 +19,7 @@ reach me at [devsenp@yahoo.com](mailto:devsenp@yahoo.com).
 
 **(a not so linked) list:**
 
+- currently working to make [Wikipedia a reliable source](https://github.com/Devanshusp/wikibud) of info
 - [storybooks](https://devpost.com/software/alsop-ai) at calhacks '24
 - [ai therapist](https://ballot.hackmit.org/project/cbspo-ztize-qaxbl-xmhub) at hackmit '24
 - an [ai boyfriend](https://www.boyfriend.so/)!
